@@ -1,3 +1,5 @@
+require_relative '../lib/tv_show.rb'
+
 RSpec.configure do |config|
   # Use color in STDOUT
   config.color_enabled = true
